@@ -7,7 +7,7 @@ ATCart is ATTRACLAB brushless hub wheels type UGV version 1. It's a differential
 This is an explanation of how to setup your ATCart with simple IO components and control your UGV. 
 
 ## Checklist
-Make sure you have all these hardware listed below on your ATCart.
+Make sure you have all these hardwares listed below on your ATCart.
 
 1. A cart with two wheels and two caster wheels attached on
 2. 6s LiPo battery or something equivalent.
